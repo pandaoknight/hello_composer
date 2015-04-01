@@ -1,3 +1,4 @@
 #PHP composer
 vendor
 composer.lock
+log
